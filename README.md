@@ -21,11 +21,11 @@ To install and set up this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cytocast-postprocessing.git
+   git clone https://github.com/misma2/Postprocessing_of_protcomplex_sims_Dissertation.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cytocast-postprocessing
+   cd Postprocessing_of_protcomplex_sims_Dissertation
    ```
 3. Install the required dependencies:
    ```bash
